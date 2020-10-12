@@ -1,0 +1,1 @@
+# pulseaudio-headphone-config
